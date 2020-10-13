@@ -6,7 +6,7 @@ Here are my codes. Feel free to contact me.
 
 ## Problems (Chronological Order)
 
-| # | Title | Solution | Difficulty | Efficiency | Note |
+| # | Title | Solution | Difficulty | Time Efficiency | Space Efficiency | Note |
 |---| ----- | -------- | ---------- | ---------- | ---- |
-| 1 |[Two Sum](https://leetcode.com/problems/two-sum/n)| [two-sum.cpp](./C++/two-sum.cpp) | Easy | O(n) (Average) | unordered_map
+| 1 |[Two Sum](https://leetcode.com/problems/two-sum/n)| [two-sum.cpp](./C++/two-sum.cpp) | Easy | O(n) (Average) | O(n) | unordered_map
 |   |[Two Sum](https://leetcode.com/problems/two-sum/n)| [two-sum.cpp](./C++/two-sum.cpp) | Easy | O(n) (Average) | unordered_map
