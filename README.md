@@ -9,3 +9,4 @@ Here are my codes. Feel free to contact me.
 | # | Title | Solution | Difficulty | Efficiency | Note |
 |---| ----- | -------- | ---------- | ---------- | ---- |
 | 1 |[Two Sum](https://leetcode.com/problems/two-sum/n)| [two-sum.cpp](./C++/two-sum.cpp) | Easy | O(n) (Average) | unordered_map
+|   |[Two Sum](https://leetcode.com/problems/two-sum/n)| [two-sum.cpp](./C++/two-sum.cpp) | Easy | O(n) (Average) | unordered_map
