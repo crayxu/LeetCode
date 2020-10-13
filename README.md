@@ -8,4 +8,4 @@ Here are my codes. Feel free to contact me.
 
 | # | Title | Solution | Difficulty | Efficiency | Note |
 |---| ----- | -------- | ---------- | ---------- | ---- |
-| 1 |[Two Sum](https://leetcode.com/problems/two-sum/n)| [C++](./C++/two-sum.cpp) | Easy | nlog(n) | Map
+| 1 |[Two Sum](https://leetcode.com/problems/two-sum/n)| [two-sum.cpp](./C++/two-sum.cpp) | Easy | nlog(n) | Map
