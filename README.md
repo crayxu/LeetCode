@@ -8,4 +8,4 @@ Here are my codes. Feel free to contact me.
 
 | # | Title | Difficulty | Solution | Time Efficiency | Space Efficiency | Note |
 |---| ----- | ---------- | -------- | --------------- | ---------------- | ---- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cpp](./C++/two-sum.cpp) | O(n) (Average) | unordered_map
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cpp](./C++/two-sum.cpp) | O(n) (Average) | O(n) | unordered_map
