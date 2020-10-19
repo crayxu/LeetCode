@@ -9,4 +9,4 @@ Here are my codes. Feel free to contact me.
 | # | Title | Difficulty | Solution | Time Efficiency | Space Efficiency | Note |
 |---| ----- | ---------- | -------- | --------------- | ---------------- | ---- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [two-sum.cpp](./c++/two-sum.cpp) | O(n) (Average) | O(n) | unordered_map
-| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add-two-numbers.cpp](./c++/add-two-numbers.cpp) | max{O(n),O(m)}, n = size of first linked list, m = size of second linked list | O(n) (solution requirement) |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | [add-two-numbers.cpp](./c++/add-two-numbers.cpp) | max{O(n), O(m)}, n = size of the first linked list, m = size of the second linked list | O(n) (solution requirement) |
