@@ -1,4 +1,4 @@
-# [LeetCode](https://leetcode.com/problemset/all/) ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg) ![Progress](https://img.shields.io/badge/Progress-2/1627-green.svg)
+# [LeetCode](https://leetcode.com/problemset/all/) ![Language](https://img.shields.io/badge/Language-C%2B%2B-blue.svg) ![Progress](https://img.shields.io/badge/Progress-6/1627-green.svg)
 
 The purpose of this repo is to record my learning progress of C++, Data Structure and Algorithm.
 
